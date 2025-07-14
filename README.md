@@ -1,7 +1,11 @@
 #  Full Stack Movie
 
 
+
+
 Full Movie App project is a simple project created to improve my skills in creating full stack projects with backend and frontend coding using HTML, JavaScript andd Css.
+
+
 
 
 # 🛠️ Teknologies Used
@@ -9,6 +13,8 @@ Full Movie App project is a simple project created to improve my skills in creat
 - Html
 - JavaScript
 - Css
+
+
 
 
 # 🎥 ScreenShot
