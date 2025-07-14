@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Stranger Things",
+    "description": "Rüyalar içinde rüyaların keşfedildiği bir aksiyon dolu bilim kurgu filmi",
+    "rating": "6",
+    "year": "2020",
+    "director": "Christopher Nolan",
+    "duration": "2s 11dk",
+    "language": "Ingilizce",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "genre": ["Bilim Kurgu", "Aksiyon"],
+    "id": "939ea0b8-4520-4cb8-adad-3e6b7d3d036d"
+  },
+  {
+    "title": "Esaretin Bedeli",
+    "description": "Haksız yere ömür boyu hapis cezasına çarptırılan bir bankacının, Shawshank Hapishanesi'nde umut ve dostlukla örülü hayat hikayesi.",
+    "rating": "9.3",
+    "year": "1994",
+    "director": "Frank Darabont",
+    "duration": "2s 22dk",
+    "language": "Ingilizce",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "genre": ["Dram", "Suç"],
+    "id": "b7e2a4fc-5c31-41d9-9674-4f75a8a39f2e"
+  },
+  {
+    "title": "Yenilmezler: Ultron Çağı",
+    "description": "Tony Stark barışı sağlamak için bir yapay zekâ programı başlatır, ancak işler ters gider ve Ultron adındaki tehdit ortaya çıkar. Yenilmezler, insanlığı kurtarmak için yeniden birleşir.",
+    "rating": "7.3",
+    "year": "2015",
+    "director": "Joss Whedon",
+    "duration": "2s 21dk",
+    "language": "Ingilizce",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "James Spader"
+    ],
+    "genre": ["Aksiyon", "Bilim Kurgu", "Macera"],
+    "id": "e19a56d3-842a-4d4c-a29a-29be5cb6e1c8"
+  },
+  {
+    "title": "Hababam Sınıfı",
+    "description": "Bir grup haylaz lisenin neşeli ve duygusal maceralarını konu alan klasik Türk komedisi.",
+    "rating": "8.9",
+    "year": "1975",
+    "director": "Ertem Eğilmez",
+    "duration": "1s 35dk",
+    "language": "Türkçe",
+    "cast": [
+      "Kemal Sunal",
+      "Münir Özkul",
+      "Tarık Akan",
+      "Adile Naşit",
+      "Halit Akçatepe"
+    ],
+    "genre": ["Komedi", "Dram"],
+    "id": "d3a3c8b2-1985-4f97-bc79-1f55c6f010b5"
+  },
+  {
+    "title": "Hababam Sınıfı Sınıfta Kaldı",
+    "description": "Hababam sınıfı öğrencilerinin okulda kalmaya devam ettikleri yeni komik serüvenleri.",
+    "rating": "8.7",
+    "year": "1976",
+    "director": "Ertem Eğilmez",
+    "duration": "1s 35dk",
+    "language": "Türkçe",
+    "cast": [
+      "Kemal Sunal",
+      "Münir Özkul",
+      "Adile Naşit",
+      "Halit Akçatepe",
+      "Şener Şen"
+    ],
+    "genre": ["Komedi", "Dram"],
+    "id": "ab4c71fc-e580-4c3d-86f0-7f8d1a876c7f"
+  }
+]
